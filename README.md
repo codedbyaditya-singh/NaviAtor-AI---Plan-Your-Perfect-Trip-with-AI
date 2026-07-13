@@ -1,9 +1,9 @@
-🌍 NaviAtor – AI: Plan Your Perfect Trip with AI
+# 🌍 NaviAtor – AI: Plan Your Perfect Trip with AI 
 
 🚧 Project Status: Active Development
 This project is currently under active development. New features, workflow improvements, API integrations, and architectural enhancements are being added regularly.
 
-📖 Overview
+# 📖 Overview
 
 NaviAtor is an AI-powered travel planning application designed to simplify trip planning through intelligent automation. Instead of manually searching across multiple websites, users can describe their travel requirements in natural language, and the system generates a personalized travel plan by combining Large Language Models (LLMs), external APIs, and structured workflows.
 
@@ -11,7 +11,7 @@ The project is being built with a modular backend architecture using FastAPI, La
 
 ⸻
 
-✨ Features
+# ✨ Features
 
 * 🤖 AI-powered travel planning using Large Language Models
 * 🧠 Intelligent extraction of user preferences (destination, budget, duration, travelers, travel dates, etc.)
@@ -27,7 +27,7 @@ The project is being built with a modular backend architecture using FastAPI, La
 
 ⸻
 
-🏗️ System Workflow
+# 🏗️ System Workflow
 
 The application follows a modular AI workflow:
 
@@ -45,7 +45,7 @@ The application follows a modular AI workflow:
 
 ⸻
 
-🧩 Project Structure
+# 🧩 Project Structure
 
 app/
 ├── agents/
@@ -68,7 +68,7 @@ static/
 
 ⸻
 
-🛠️ Tech Stack
+# 🛠️ Tech Stack
 
 Backend
 
@@ -108,7 +108,7 @@ Authentication
 
 ⸻
 
-🎯 Project Objectives
+# 🎯 Project Objectives
 
 The primary goal of NaviAtor is to build an intelligent travel assistant capable of:
 
@@ -120,7 +120,7 @@ The primary goal of NaviAtor is to build an intelligent travel assistant capable
 
 ⸻
 
-🚀 Current Development
+# 🚀 Current Development
 
 The project is actively evolving with continuous improvements, including:
 
@@ -135,7 +135,7 @@ The project is actively evolving with continuous improvements, including:
 
 ⸻
 
-📌 Future Roadmap
+# 📌 Future Roadmap
 
 * Multi-city trip planning
 * Interactive travel chatbot
@@ -152,7 +152,7 @@ The project is actively evolving with continuous improvements, including:
 
 ⸻
 
-💻 Installation
+# 💻 Installation
 
 Clone the repository:
 
@@ -178,13 +178,13 @@ uvicorn app.main:app --reload
 
 ⸻
 
-🤝 Contributions
+# 🤝 Contributions
 
 This repository is currently maintained as a personal learning and development project. Suggestions, feedback, and ideas for improvement are always welcome.
 
 ⸻
 
-👨‍💻 Author
+# 👨‍💻 Author
 
 Aditya Singh
 
