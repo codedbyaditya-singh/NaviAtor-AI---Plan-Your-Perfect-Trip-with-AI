@@ -47,6 +47,7 @@ The application follows a modular AI workflow:
 
 # 🧩 Project Structure
 
+```text
 app/
 ├── agents/
 ├── auth/
@@ -65,7 +66,7 @@ tools/
 └── tavily_tool.py
 templates/
 static/
-
+```
 ⸻
 
 # 🛠️ Tech Stack
